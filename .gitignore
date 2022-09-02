@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__
+outputs/images/
+outputs/text2img-samples/
+model.ckpt
+stable-diffusion.code-workspace
